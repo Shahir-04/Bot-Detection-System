@@ -11,10 +11,10 @@ Instead of using traditional CAPTCHAs, this system leverages AI and behavioral a
 - Fast & User-Friendly – No frustrating image puzzles; detection happens in the background, improving UX.
 ---
 # How It Works:
-1️. User Interacts with a Website/App – When a user submits a form or performs an action, a request is sent to our system.
-2️. AI Analyzes User Behavior – The model examines factors like request patterns, interaction timing, and metadata to detect bot-like behavior.
-3️. Prediction & Response – The API returns a simple response indicating whether the user is a bot or human.
-4️. Client System Takes Action – Based on the result, the client can allow, block, or ask for additional verification.
+1️.User Interacts with a Website/App – When a user submits a form or performs an action, a request is sent to our system.
+2️.AI Analyzes User Behavior – The model examines factors like request patterns, interaction timing, and metadata to detect bot-like behavior.
+3️.Prediction & Response – The API returns a simple response indicating whether the user is a bot or human.
+4️.Client System Takes Action – Based on the result, the client can allow, block, or ask for additional verification.
 ---
 # Key Features:
 - AI-Powered Detection – Uses behavioral analysis and request fingerprinting for bot detection.
