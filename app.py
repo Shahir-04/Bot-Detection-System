@@ -46,7 +46,7 @@ def submit():
         # print("Prediction Result:", result)
       
         url='http://127.0.0.1:8000/predict'
-        le_api='Hello-World'
+        le_api='Unique Api Key'
         params={'honeypot':bot,
                 'mouse_movement': l, 
                 'api_key' : le_api}
