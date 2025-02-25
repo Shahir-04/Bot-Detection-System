@@ -37,11 +37,3 @@ cd Bot-Detection-System
  ```bash
  pip install -r requirements.txt
  ```
-4. **Start Api Server:**
-```bash
-uvicorn test:app --reload
-```
-5. **Start Website:**
-```bash
-python app.py
-```
