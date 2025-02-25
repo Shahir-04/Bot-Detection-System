@@ -1,8 +1,8 @@
 # Bot-Detection-System
-Say goodbye to traditional CAPTCHA! We have built an Bot Detection System that uses Machine Learning to distinguish between humans and bots—offering a seamless and more secure experience for users.
+  Say goodbye to traditional CAPTCHA! We have built an Bot Detection System that uses Machine Learning to distinguish between humans and bots—offering a seamless and more secure experience for users.
 ---
 # What This Project Does:
-Instead of using traditional CAPTCHAs, this system leverages AI and behavioral analysis to determine whether a user is a bot or a real human. It’s designed to be easily integrated into any application via an API, 
+  Instead of using traditional CAPTCHAs, this system leverages AI and behavioral analysis to determine whether a user is a bot or a real human. It’s designed to be easily integrated into any application via an API, 
 making it a flexible security solution for businesses.
 ---
 # Project Overview:
