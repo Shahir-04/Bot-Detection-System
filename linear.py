@@ -19,13 +19,3 @@ def find(r_value):
         return l
 
 
-def predict_user(honeypot, mouse_movement):
-    honeypot = 1 if honeypot == "Yes" else 0
-    mouse_movement=1 if mouse_movement=='non linear' else 0
-    prediction = loaded_model.predict([[honeypot, mouse_movement]])
-    # print(prediction)
-    # return "Bot" if prediction[0] == 1 else "Human"
-    return prediction
-
-
-# print(predict_user("Yes",l)) 
