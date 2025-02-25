@@ -1,7 +1,6 @@
 from fastapi import FastAPI,Depends,HTTPException,Header
 from fastapi.security.api_key import APIKeyHeader
 import joblib
-from scipy.stats import linregress
 from fastapi.middleware.cors import CORSMiddleware
 
 API_KEY='Hello-World'
